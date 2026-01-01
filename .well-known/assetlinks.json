@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kotsbotics.splitlite",
+        "sha256_cert_fingerprints": [
+          "93:D3:B2:F9:D0:C5:5E:FC:06:ED:0C:34:88:90:C8:CC:EF:E8:85:CA:4A:FE:DC:39:57:30:06:AB:B2:E1:83:FF"
+        ]
+      }
+    }
+  ]
+  
